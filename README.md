@@ -15,9 +15,9 @@ The data contains information about the comments made on the articles published 
 Methodology
 ---
 
-Extract the CSV data/ Save it in a Resources Folder 
-Use Jupyter notebook and import pandas/ sqlalchemy to perform data transformation:
-join the files together to  form one large dataset spanning across multiple months and years
-Drop unnecessary columns and format data appropriately (numeric, string, etc.)
-Load into SQL for final step and easy access
+  * Extract the CSV data/ Save it in a Resources Folder 
+  * Use Jupyter notebook and import pandas/ sqlalchemy to perform data transformation:
+      * join the files together to  form one large dataset spanning across multiple months and years
+      * Drop unnecessary columns and format data appropriately (numeric, string, etc.)
+      * Load into SQL for final step and easy access
 
