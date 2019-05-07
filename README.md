@@ -4,6 +4,8 @@
 Data Source:  New York Times Comments 
 ---
 
+ * Because the size of our data sources exceeds the allowable GitHub file size, we are not able to upload the Recources folder to this repo. Please click here to access the data for April 2018: https://www.kaggle.com/aashita/nyt-comments  
+
 Context
 ---
 New York Times has a wide audience and plays a prominent role in shaping people's opinion and outlook on current affairs and also in setting the tone of the public discourse, especially in the USA. The comment section in the articles is very active and it gives a glimpse of readers' take on the matters concerning the articles.
