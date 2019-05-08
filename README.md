@@ -1,6 +1,13 @@
 # ETL-Project
 ---
 
+Method
+---
+For extra challenge we are including two ways to perform an ETL excercise: 
+ * Method 1: ETL to MySQL titled 'New York Times ETL3'
+ * Method 2: ETL to SQL Lite titled 'ETL_To_SQLITE'
+
+
 Data Source:  New York Times Comments 
 ---
 
